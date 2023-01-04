@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Alexis Merienne, a french student in Polytech Nice Sophia in computer Science. 
-I'm currently on a intership in Alter Alsace Energie, wich is an association that promote the 100% renewable energy in Alsace.
+- 👋 Hi, I’m Alexis Merienne, a french student in Polytech Nice Sophia in computer Science. During my laste year, I specialyse myself in AI and Data Engeneering
 
 - 👀 I’m interested in web developpement, software engeniering, HMI and data analysis. 
 
